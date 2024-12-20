@@ -1,0 +1,39 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability within this project, please follow these steps:
+
+1. **Do not** open a public issue. Instead, send an email to [support_dev@microflow.com](mailto:security@example.com) with the following details:
+
+   - A description of the vulnerability.
+   - Steps to reproduce the vulnerability.
+   - Any potential impact it may have.
+
+2. We will acknowledge your email within 48 hours and provide a timeline for a fix.
+
+3. Once the vulnerability is resolved, we will notify you and give you credit for the discovery if you wish.
+
+## Supported Versions
+
+We release patches for security vulnerabilities in the following versions:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.x     | :white_check_mark: |
+| < 1.0   | :x:                |
+
+## Security Updates
+
+We will release security updates as needed. Please ensure you are using the latest version of the project to stay secure.
+
+## Security Best Practices
+
+To help keep your project secure, we recommend the following best practices:
+
+- Regularly update dependencies to their latest versions.
+- Use strong, unique passwords for all accounts.
+- Enable two-factor authentication (2FA) where possible.
+- Regularly back up your data.
+
+Thank you for helping to keep this project secure!
